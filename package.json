@@ -1,0 +1,13 @@
+{
+  "name": "codex-workspace-helper",
+  "version": "0.1.0",
+  "description": "A small, auditable workspace-bounded launcher and file-tool kit for the Codex app-server.",
+  "type": "module",
+  "private": false,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/index.mjs && node --check src/launch.mjs && node --check src/workspace-files.mjs"
+  },
+  "license": "MIT"
+}
