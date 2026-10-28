@@ -1,5 +1,7 @@
 # Contributing
 
+English · [繁體中文](CONTRIBUTING.zh-TW.md) · [Back to README](README.md)
+
 Thanks for considering a contribution.
 
 ## Before opening a pull request

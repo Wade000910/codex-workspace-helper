@@ -1,5 +1,7 @@
 # Security policy
 
+English · [繁體中文](SECURITY.zh-TW.md) · [Back to README](README.md)
+
 ## Supported versions
 
 Security fixes are developed against the latest release. Before a first tagged release, use of this project is experimental and no release support window is promised.
