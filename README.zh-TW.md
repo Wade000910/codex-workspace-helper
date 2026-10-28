@@ -6,6 +6,8 @@
 
 這套工具是從 Orca/Codex 使用案例整理出來，但程式本身面向 Codex app-server，不依賴特定 Host。Orca 或其他支援 Codex app-server 請求的 Host 都可以整合。目前它還不是一鍵安裝的 Orca 外掛；Host 需要依下方說明接上啟動器與請求準備函式。
 
+若使用 Orca 內建的 Codex 終端工作階段，repo 也提供可直接貼上的啟動參數，不需要安裝 Node.js 工具：[Orca 設定指南](docs/orca-setup.md)。
+
 ## 需求
 
 - Node.js 20 以上

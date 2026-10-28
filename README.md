@@ -8,6 +8,8 @@ This is an independent community project. It is not made by, affiliated with, or
 
 This toolkit was extracted from an Orca/Codex use case, but its code targets the Codex app-server and is host-independent. It can be integrated by Orca or another host that supports Codex app-server requests. It is not currently a one-click Orca plugin or installer; the host must connect the launcher and request-preparation helpers as described below.
 
+For the built-in Orca Codex terminal, the repository includes a copy-and-paste launch-argument setup that does not require installing this toolkit: [Orca setup guide](docs/orca-setup.md).
+
 The project does not disable the operating-system sandbox. It explicitly configures `workspace-write`, turns off network access, sets one writable root, and disables shell and other optional tool features by default.
 
 ## Requirements
